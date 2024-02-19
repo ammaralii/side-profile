@@ -1,0 +1,5 @@
+org.springframework.test.context.ContextCustomizerFactory = com.ammaralii.\
+    sideprofile.config.TestContainersSpringContextCustomizerFactory,com.\
+    ammaralii.sideprofile.config.\
+    SqlTestContainersSpringContextCustomizerFactory,com.ammaralii.sideprofile.\
+    config.RedisTestContainersSpringContextCustomizerFactory
